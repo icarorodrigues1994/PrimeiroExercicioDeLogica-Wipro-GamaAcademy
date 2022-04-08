@@ -5,7 +5,7 @@
 
 
 
-**1- Faça um algoritmo que mostre o passo a passo para trocar uma lâmpada queimada. **
+**1- Faça um algoritmo que mostre o passo a passo para trocar uma lâmpada queimada.**
 
 Verifique se possui uma lâmpada de reserva para efetuar a troca. 
 
@@ -35,7 +35,9 @@ Guarde a escada.
 
 
 
- **2- Faça um algoritmo que mostre o passo a passo para passear com seu animal de estimação. **
+
+
+ **2- Faça um algoritmo que mostre o passo a passo para passear com seu animal de estimação.**
 
 Vou até o quintal brincar com o cachorro;
 
